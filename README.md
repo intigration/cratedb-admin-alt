@@ -147,3 +147,4 @@ be addressed.
 
 
 [CrateDB configuration]: https://cratedb.com/docs/crate/reference/en/latest/config/node.html#cross-origin-resource-sharing-cors
+# cratedb
