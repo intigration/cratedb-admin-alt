@@ -45,11 +45,11 @@ const routes = [
         name: 'notebooks',
         component: () => import('@/views/Notebooks.vue')
       },
-      {
-        path: 'debug',
-        name: 'debug',
-        component: () => import('@/views/Develop2.vue')
-      },
+      // {
+      //   path: 'debug',
+      //   name: 'debug',
+      //   component: () => import('@/views/Develop2.vue')
+      // },
       {
         path: 'ai',
         name: 'ai',
